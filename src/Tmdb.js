@@ -1,4 +1,4 @@
-const API_KEY = '4cb6df1ef97d71ce804aa322eafbcd0d'; //key do site tmdb
+const API_KEY = ''; //key encontrada no site da tmdb - registrar e solicitar
 const API_BASE = 'https://api.themoviedb.org/3';//site raiz
 
 const basicFetch = async (endpoint) => {
